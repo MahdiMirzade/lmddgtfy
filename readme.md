@@ -1,4 +1,5 @@
-<div dir="rtl" lang="fa">
+<link rel="stylesheet" href="fonts/droidarabicnaskh.css">
+<div dir="rtl" lang="fa" style="font-family: 'Droid Arabic Naskh', sens-serif;">
 
 # 🦆 بزار برات داک داک گو اش کنم
 
