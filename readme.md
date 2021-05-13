@@ -19,7 +19,7 @@ https://lmddgtfy.ir?q=مهدی+میرزاده</pre></code></div>
 
 1. وبسایت اصلی [lmddgtfy.com](https://lmddgtfy.com) اولین بار در تاریخ ۲۰ اردیبهشت ۱۳۸۹ توسط [Michael Stephens](https://github.com/mikejs) اجرا شد، ولیکن ۲ سال بعد یعنی در ۱۳۹۱، این وبسایت از کار افتاد.
 2. دقیقا همون سال، شخصی به اسم [yano](https://github.com/myano) یک فورک از پروژه [mikejs/lmddgtfy](https://github.com/mikejs/lmddgtfy) درست کرد و با ویرایش و ارتقای سایت قدیمی، ریپوزیتوری [myano/lmddgtfy](https://github.com/myano/lmddgtfy) و دامنه [lmddgtfy.net](https://lmddgtfy.net) را اجرا کرد.
-3. مهدی میرزاده در تاریخ ۲۳ اردیبهشت ۱۴۰۰ به فکر ترجمه این وبسایت باحال افتاد و [lmddgtfy.ir](https://lmddgtfy.ir) را برپایه [mahdymirzade/lmddgtfy](https://github.com/mahdymirzade/lmddgtfy) که براساس پروژه [yano](https://github.com/myano) بود رو راه اندازی کرد.
+3. [مهدی میرزاده](https://github.com/mahdymirzade) در تاریخ ۲۳ اردیبهشت ۱۴۰۰ به فکر ترجمه این وبسایت باحال افتاد و [lmddgtfy.ir](https://lmddgtfy.ir) را برپایه [mahdymirzade/lmddgtfy](https://github.com/mahdymirzade/lmddgtfy) که براساس پروژه [yano](https://github.com/myano) بود رو راه اندازی کرد.
 
 ## 👨‍🏫 افراد
 
@@ -31,5 +31,4 @@ https://lmddgtfy.ir?q=مهدی+میرزاده</pre></code></div>
 
 ## ✒️ گواهی
 [برای مشاهده گواهی MIT اینجا کلیک کنید.](license.txt)
-
 </div>
