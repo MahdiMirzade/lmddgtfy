@@ -6,11 +6,18 @@
 
 ## 🤔 نحوه استفاده
 
-برای استفاده از LMDDGTFY فارسی از این سایت میتونید استفاده کنید:
+برای استفاده از LMDDGTFY فارسی از یکی از این دامنه ها میتونید استفاده کنید:
+<div dir="ltr"><pre><code>https://lmddg.ir</pre></code></div>
 <div dir="ltr"><pre><code>https://lmddgtfy.ir</pre></code></div>
 
+* نکته: دامنه اول یک ریدایرکت به دامنه دوم هست و صرفا برای راحتی شما ثبت شد.
+
 یا از این قالب برای تولید لینک استفاده کنید:
-<div dir="ltr"><pre><code>https://lmddgtfy.ir?q=QUERY
+<div dir="ltr"><pre><code>https://lmddg.ir?q=QUERY
+https://lmddg.ir?q=SEARCH+ME+PLEASE
+https://lmddg.ir?q=مهدی+میرزاده
+</pre></code></div><div dir="ltr"><pre><code>
+https://lmddgtfy.ir?q=QUERY
 https://lmddgtfy.ir?q=SEARCH+ME+PLEASE
 https://lmddgtfy.ir?q=مهدی+میرزاده</pre></code></div>
 
