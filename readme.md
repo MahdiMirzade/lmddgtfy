@@ -16,8 +16,7 @@
 <div dir="ltr"><pre><code>https://lmddg.ir?q=QUERY
 https://lmddg.ir?q=SEARCH+ME+PLEASE
 https://lmddg.ir?q=مهدی+میرزاده
-</pre></code></div><div dir="ltr"><pre><code>
-https://lmddgtfy.ir?q=QUERY
+</pre></code></div><div dir="ltr"><pre><code>https://lmddgtfy.ir?q=QUERY
 https://lmddgtfy.ir?q=SEARCH+ME+PLEASE
 https://lmddgtfy.ir?q=مهدی+میرزاده</pre></code></div>
 
